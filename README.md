@@ -2,7 +2,7 @@
 
 **`Digital Craftsman`**
 
-I am a Front-end Web Developer and love expressing myself through code. 
+I am a self taught Front-end Web Developer and love expressing myself through code. 
 
 ---
 ### 🧰 Languages and Tools 

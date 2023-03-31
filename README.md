@@ -19,7 +19,7 @@ I am a Front-end Web Developer and love expressing myself through code.
 <details> 
 
 <summary><h3>💻 My Coding Journey </h3><summary>
-I started to code when I was a sous-chef. I realised that a lot of time was wasted on traveling so I decided to take a chance on myself and quit to pursue coding. I decided to start my journey programmer. Being a self taught programmer taught me many valuable skills. I had to do a lot of goggling on my own and after trying a lot of online resources I settled on doing scrimba alongside freecodecamp.org to hone my coding skills. I try to push myself to learn new ideas everyday.  
+"I began coding while working as a sous-chef. I noticed that a significant amount of time was being wasted on traveling, so I took a chance on myself and left my job to pursue a career in programming. As a self-taught programmer, I gained many valuable skills. I had to do a lot of research on my own, and after trying various online resources, I settled on using Scrimba and FreeCodeCamp.org to hone my coding abilities. I am dedicated to learning new concepts every day and pushing myself to expand my knowledge." 
 
 <br>
 
